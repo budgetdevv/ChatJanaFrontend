@@ -1,6 +1,6 @@
 # ChatJanaFrontend
 
-Front-end React code for the ChatJana cloud app.
+Front-end React / TS code for the ChatJana cloud app.
 
 # What is ChatJana?
 
